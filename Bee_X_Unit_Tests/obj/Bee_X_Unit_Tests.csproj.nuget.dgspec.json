@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\1Byte\\source\\repos\\Un_Bee_Lievable\\Bee_X_Unit_Tests\\Bee_X_Unit_Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\1Byte\\source\\repos\\Un_Bee_Lievable\\Bee_X_Unit_Tests\\Bee_X_Unit_Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\1Byte\\source\\repos\\Un_Bee_Lievable\\Bee_X_Unit_Tests\\Bee_X_Unit_Tests.csproj",
+        "projectName": "Bee_X_Unit_Tests",
+        "projectPath": "C:\\Users\\1Byte\\source\\repos\\Un_Bee_Lievable\\Bee_X_Unit_Tests\\Bee_X_Unit_Tests.csproj",
+        "packagesPath": "C:\\Users\\1Byte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1Byte\\source\\repos\\Un_Bee_Lievable\\Bee_X_Unit_Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1Byte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\1Byte\\source\\repos\\Un_Bee_Lievable\\Un_Bee_Lieable_Proj\\Un_Bee_Lievable.csproj": {
+                "projectPath": "C:\\Users\\1Byte\\source\\repos\\Un_Bee_Lievable\\Un_Bee_Lieable_Proj\\Un_Bee_Lievable.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\1Byte\\source\\repos\\Un_Bee_Lievable\\Un_Bee_Lieable_Proj\\Un_Bee_Lievable.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\1Byte\\source\\repos\\Un_Bee_Lievable\\Un_Bee_Lieable_Proj\\Un_Bee_Lievable.csproj",
+        "projectName": "Un_Bee_Lievable",
+        "projectPath": "C:\\Users\\1Byte\\source\\repos\\Un_Bee_Lievable\\Un_Bee_Lieable_Proj\\Un_Bee_Lievable.csproj",
+        "packagesPath": "C:\\Users\\1Byte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1Byte\\source\\repos\\Un_Bee_Lievable\\Un_Bee_Lieable_Proj\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1Byte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

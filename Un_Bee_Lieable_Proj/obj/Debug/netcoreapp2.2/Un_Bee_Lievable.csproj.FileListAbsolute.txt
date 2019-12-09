@@ -1,0 +1,11 @@
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\bin\Debug\netcoreapp2.2\Un_Bee_Lievable.deps.json
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\bin\Debug\netcoreapp2.2\Un_Bee_Lievable.runtimeconfig.json
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\bin\Debug\netcoreapp2.2\Un_Bee_Lievable.runtimeconfig.dev.json
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\bin\Debug\netcoreapp2.2\Un_Bee_Lievable.dll
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\bin\Debug\netcoreapp2.2\Un_Bee_Lievable.pdb
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\obj\Debug\netcoreapp2.2\Un_Bee_Lievable.csprojAssemblyReference.cache
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\obj\Debug\netcoreapp2.2\Un_Bee_Lievable.csproj.CoreCompileInputs.cache
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\obj\Debug\netcoreapp2.2\Un_Bee_Lievable.AssemblyInfoInputs.cache
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\obj\Debug\netcoreapp2.2\Un_Bee_Lievable.AssemblyInfo.cs
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\obj\Debug\netcoreapp2.2\Un_Bee_Lievable.dll
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\obj\Debug\netcoreapp2.2\Un_Bee_Lievable.pdb

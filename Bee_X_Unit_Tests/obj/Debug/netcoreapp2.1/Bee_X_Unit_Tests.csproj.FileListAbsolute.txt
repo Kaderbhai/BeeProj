@@ -1,0 +1,17 @@
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\bin\Debug\netcoreapp2.1\Bee_X_Unit_Tests.deps.json
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\bin\Debug\netcoreapp2.1\Bee_X_Unit_Tests.runtimeconfig.json
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\bin\Debug\netcoreapp2.1\Bee_X_Unit_Tests.runtimeconfig.dev.json
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\bin\Debug\netcoreapp2.1\Bee_X_Unit_Tests.dll
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\bin\Debug\netcoreapp2.1\Bee_X_Unit_Tests.pdb
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\bin\Debug\netcoreapp2.1\Un_Bee_Lievable.dll
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\bin\Debug\netcoreapp2.1\Un_Bee_Lievable.pdb
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\obj\Debug\netcoreapp2.1\Bee_X_Unit_Tests.csprojAssemblyReference.cache
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\obj\Debug\netcoreapp2.1\Bee_X_Unit_Tests.csproj.CoreCompileInputs.cache
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\obj\Debug\netcoreapp2.1\Bee_X_Unit_Tests.AssemblyInfoInputs.cache
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\obj\Debug\netcoreapp2.1\Bee_X_Unit_Tests.AssemblyInfo.cs
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\obj\Debug\netcoreapp2.1\Bee_X_Unit_Tests.csproj.CopyComplete
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\obj\Debug\netcoreapp2.1\Bee_X_Unit_Tests.dll
+C:\Users\1Byte\source\repos\Un_Bee_Lievable\Bee_X_Unit_Tests\obj\Debug\netcoreapp2.1\Bee_X_Unit_Tests.pdb
