@@ -16,7 +16,7 @@ namespace Bee_X_Unit_Tests
         public void DroneDamage(int attackDamage, float expectedHealthAfter)
         {
             //Arrange
-            var droneService = new Drone(); 
+            var droneService = new Drone(100, false); 
 
             //Act
             var sut = droneService.Damage(attackDamage);
@@ -33,7 +33,7 @@ namespace Bee_X_Unit_Tests
         public void DeadDrone(int attack1, int attack2, bool isDead)
         {
             //Arrange
-            var droneService = new Drone(); 
+            var droneService = new Drone(100, false); 
 
             //Act
             var sut = droneService.Damage(attack1);
@@ -42,11 +42,11 @@ namespace Bee_X_Unit_Tests
             //Assert
             if(isDead)
             {
-                Assert.True(droneService.isDead);
+                Assert.True(droneService.IsDead);
             }
             else
             {
-                Assert.False(droneService.isDead);
+                Assert.False(droneService.IsDead);
             }
         }
 
@@ -61,7 +61,7 @@ namespace Bee_X_Unit_Tests
         public void QueenDamage(int attackDamage, float expectedHealthAfter)
         {
             //Arrange
-            var queenService = new Queen(); 
+            var queenService = new Queen(100, false); 
 
             //Act
             var sut = queenService.Damage(attackDamage);
@@ -78,7 +78,7 @@ namespace Bee_X_Unit_Tests
         public void DeadQueen(int attack1, int attack2, bool isDead)
         {
             //Arrange
-            var queenService = new Queen(); 
+            var queenService = new Queen(100, false); 
 
             //Act
             var sut = queenService.Damage(attack1);
@@ -87,11 +87,11 @@ namespace Bee_X_Unit_Tests
             //Assert
             if(isDead)
             {
-                Assert.True(queenService.isDead);
+                Assert.True(queenService.IsDead);
             }
             else
             {
-                Assert.False(queenService.isDead);
+                Assert.False(queenService.IsDead);
             }
         }
 
@@ -106,7 +106,7 @@ namespace Bee_X_Unit_Tests
         public void WorkerDamage(int attackDamage, float expectedHealthAfter)
         {
             //Arrange
-            var workerService = new Worker(); 
+            var workerService = new Worker(100, false); 
 
             //Act
             var sut = workerService.Damage(attackDamage);
@@ -123,7 +123,7 @@ namespace Bee_X_Unit_Tests
         public void DeadWorker(int attack1, int attack2, bool isDead)
         {
             //Arrange
-            var workerService = new Worker(); 
+            var workerService = new Worker(100, false); 
 
             //Act
             var sut = workerService.Damage(attack1);
@@ -132,11 +132,11 @@ namespace Bee_X_Unit_Tests
             //Assert
             if(isDead)
             {
-                Assert.True(workerService.isDead);
+                Assert.True(workerService.IsDead);
             }
             else
             {
-                Assert.False(workerService.isDead);
+                Assert.False(workerService.IsDead);
             }
         }
 
@@ -144,7 +144,7 @@ namespace Bee_X_Unit_Tests
         public void NoExtraDamage()
         {
             //Arrange
-            var workerService = new Worker();
+            var workerService = new Worker(100, false);
 
             //Act
             var sut = workerService.Damage(75);
@@ -152,7 +152,7 @@ namespace Bee_X_Unit_Tests
 
             //Assert
             Assert.Equal(25, sut);
-            Assert.True(workerService.isDead);
+            Assert.True(workerService.IsDead);
         }
     }
 }

@@ -4,9 +4,14 @@ namespace Un_Bee_Lieable_Proj.Bees
 {
     public class Worker : IBee
     {
-        public float Health { get; private set; } = 100;
+        public Worker(float health, bool isDead)
+        {
+            Health = health;
+            IsDead = isDead;
+        }
+        public float Health { get; set; }
 
-        public bool isDead { get; set; }
+        public bool IsDead { get; set; }
 
         public float Damage(int attackDamage)
         {
@@ -27,7 +32,7 @@ namespace Un_Bee_Lieable_Proj.Bees
 
                 if(Health < 70)
                 {
-                    isDead = true;
+                    IsDead = true;
                 }
                 return Health;
             }

@@ -8,5 +8,9 @@
     <Content Include="Bees\Queen.cs" />
     <Content Include="Bees\IBee.cs" />
     <Content Include="Bees\Worker.cs" />
+    <Content Include="obj\Un_Bee_Lievable.csproj.nuget.g.targets" />
+    <Content Include="obj\Un_Bee_Lievable.csproj.nuget.g.props" />
+    <Content Include="obj\Un_Bee_Lievable.csproj.nuget.dgspec.json" />
+    <Content Include="Program.cs" />
   </ItemGroup>
 </Project>
